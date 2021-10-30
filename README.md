@@ -1,6 +1,6 @@
 Welcome!
 
-- 👋 I’m Otso Metsäportti aka otsojm and I am currently studying Information technology at Haaga-Helia University of Applied Sciences (BBA).
+- 👋 I’m Otso Metsäportti aka otsojm and I'm currently studying Information technology at Haaga-Helia University of Applied Sciences (BBA).
 - 👀 I’m interested in Software development and Cloud services.
 - 🌱 I’m currently learning more about Java, ReactJS, AWS and starting with Python.
 - 💞️ I’m looking to do my internship in Spring/Summer 2022 -->
