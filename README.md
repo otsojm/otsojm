@@ -8,7 +8,7 @@ Welcome!
 
 This page is still under construction, but later on it will contain my CV and full portfolio (repositories/other sources).
 
-At repositories HH stands for my school related projects at Haaga-Helia and OP stands for own projects, which are fully done at freetime.
+In repositories HH stands for my school related projects at Haaga-Helia and OP stands for own projects, which are fully done at freetime.
 
 <!---
 otsojm/otsojm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
