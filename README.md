@@ -6,10 +6,6 @@ Welcome!
 - 💞️ I’m looking to do my internship in Spring/Summer 2022 -->
 - 📫 You can reach me at my [LinkedIn](https://fi.linkedin.com/in/otso-metsaportti).
 
-This page is still under construction, but later on it will contain my CV and full portfolio (repositories/other sources).
-
-In repositories HH stands for my school related projects at Haaga-Helia.
-
 Other projects I have been part of:
 
 - [Vessa.info](https://vessa.info)
