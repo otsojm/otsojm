@@ -6,9 +6,7 @@ Welcome!
 - 💞️ I’m looking to do my internship in May 2022 -->
 - 📫 You can reach me at my [LinkedIn](https://fi.linkedin.com/in/otso-metsaportti).
 
-Other projects I have been part of:
-
-- [Vessa.info](https://vessa.info)
+Check my [portfolio page](https://otsojm.github.io/Portfolio/)!
 
 <!---
 otsojm/otsojm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
