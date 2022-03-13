@@ -5,7 +5,7 @@ Welcome!
 - 🌱 I’m currently learning more about subjects like Java, React.js, Node.js, AWS and starting with Python, for example.
 - 💞️ I am starting the last year with my studies: last courses during January-May,
 internship around May-September and writing thesis at the end of the year.
-- 📫 Check contact info and other stuff from my [portfolio page](https://otsojm.github.io/otsojm-Portfolio/)!
+- 📫 Check contact info and other stuff from my [portfolio page](https://otsojm.github.io/otsojm-portfolio/)!
 
 <!---
 otsojm/otsojm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
