@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=otsojm&label=Profile%20views&color=0e75b6&style=flat" alt="otsojm" /> </p>
 
-- 🌱 I’m currently learning more about subjects like **Javascript, AWS, Python, ERP, EDI/E-invoicing for example.**
+- 🌱 I’m currently learning more about subjects like **Javascript, AWS, Python, ERP, EDI/E-invoicing, for example.**
 
 - 👨‍💻 All of my projects are available at [otsojm's portfolio](https://otsojm.github.io/otsojm-portfolio/) .
 
