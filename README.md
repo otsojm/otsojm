@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [otsojm's portfolio](https://otsojm.github.io/otsojm-portfolio/) .
 
-- 💞️ Thesis student at Haaga-Helia University of Applied Sciences (BBA/Information Technology), Junior Developer at Apix Messaging Oy and in my free time I’m also really passionate to learn more about the field.
+- 💞️ Thesis student at Haaga-Helia University of Applied Sciences (BBA/Information Technology), Developer at Apix Messaging Oy and in my free time I’m also really passionate to learn more about the field.
 
 - 📫 Check contact info and other stuff from my **portfolio.**
 
