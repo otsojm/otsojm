@@ -2,17 +2,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=otsojm&label=Profile%20views&color=0e75b6&style=flat" alt="otsojm" /> </p>
 
-- 👀 I’m interested in Software Development and Cloud Services.
-
-- 🌱 I’m currently learning more about subjects like **Javascript, AWS, Python, ERP, EDI/E-invoicing, for example.**
+- 👀 I have a keen interest in EDI, Software Development, and Cloud Services.
+- 🌱 Currently, I'm expanding my knowledge in areas such as Javascript, AWS, Python, ERP, EDI/E-invoicing, and more.
+- 💼 I'm a thesis student at Haaga-Helia University of Applied Sciences, pursuing a BBA in Information Technology. My research focuses on developing tools for domestic and cross-border electronic procurement processes. I'm also a Developer at Apix Messaging Oy, and in my free time, I'm passionate about furthering my knowledge in this field.
 
 - 👨‍💻 All of my projects are available at [otsojm's portfolio](https://otsojm.github.io/otsojm-portfolio/) .
 
-- 💞️ Thesis student at Haaga-Helia University of Applied Sciences (BBA/Information Technology), Developer at Apix Messaging Oy and in my free time I’m also really passionate to learn more about the field.
-
 - 📫 Check contact info and other stuff from my **portfolio.**
 
-- 📄 Know about my experiences at [Resume/CV](https://otsojm.github.io/otsojm-portfolio/Otso_Metsaportti_Resume.pdf) .
+- 📄 Know about my experiences at [Resume/CV](https://otsojm.github.io/otsojm-portfolio/Otso_Metsaportti_Resume.pdf) and LinkedIn.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
