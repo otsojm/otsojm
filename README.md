@@ -6,7 +6,7 @@
 - 🌱 Currently, I'm expanding my knowledge in areas such as Javascript, AWS, Python, ERP, EDI/E-invoicing, and more.
 - 💼 I'm a thesis student at Haaga-Helia University of Applied Sciences, pursuing a BBA in Information Technology. My research focuses on developing tools for domestic and cross-border electronic procurement processes. I'm also a Developer at Apix Messaging Oy, and in my free time, I'm passionate about furthering my knowledge in this field.
 
-- 👨‍💻 All of my projects are available at [otsojm's portfolio](https://otsojm.github.io/otsojm-portfolio/) .
+- 👨‍💻 All of my projects (made during studies) are available at [otsojm's portfolio](https://otsojm.github.io/otsojm-portfolio/) .
 
 - 📫 Check contact info and other stuff from my **portfolio.**
 
